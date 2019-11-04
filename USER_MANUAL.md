@@ -33,7 +33,7 @@ In the other hand if you have a fast and steady internet connection like more th
 
 This is the alternative option if the download option is not the best choice for you because the above mentioned speed/stability issues in your internet link.
 
-Go to a place with a steady and fast internet connection and use whatever device you have (Cell, tablet, laptops, etc) to download the latest Skybian base image. Go to the [Skybian release page](https://github.com/skycoin/skybian/releases/) pick the latest available release (it's the big file ending on .tar.xz) once you get it move it to your PC and click on the "Browse" button to select the file.
+Go to a place with a steady and fast internet connection and use whatever device you have (Cell, tablet, laptops, etc) to download the latest Skybian base image. Go to the [Skybian release page](https://github.com/SkycoinProject/skybian/releases/) pick the latest available release (it's the big file ending on .tar.xz) once you get it move it to your PC and click on the "Browse" button to select the file.
 
 ### Extract & verify
 

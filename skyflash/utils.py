@@ -22,8 +22,8 @@ except:
 
 # version data
 actualVersion = "v0.0.6"
-updateURL = "https://raw.githubusercontent.com/skycoin/skyflash/master/version.txt"
-skybianVersionFile = "https://raw.githubusercontent.com/skycoin/skybian/master/version.txt"
+updateURL = "https://raw.githubusercontent.com/SkycoinProject/skyflash/master/version.txt"
+skybianVersionFile = "https://raw.githubusercontent.com/SkycoinProject/skybian/master/version.txt"
 
 def cleanString(data):
     '''Cleans a string from trailing or leading chars

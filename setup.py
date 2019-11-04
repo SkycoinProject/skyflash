@@ -19,7 +19,7 @@ setup(
     description='Skycoin Skyminer\'s OS configuring and flashing',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/skycoin/skyflash',
+    url='https://github.com/SkycoinProject/skyflash',
     author='stdevPavelmc',
     author_email='pavelmc@gmail.com',
     classifiers=[
@@ -72,7 +72,7 @@ setup(
 
     # List additional URLs that are relevant to your project as a dict.
     project_urls={
-        'Source': 'https://github.com/skycoin/skyflash/',
+        'Source': 'https://github.com/SkycoinProject/skyflash/',
     },
 
     data_files={

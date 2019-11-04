@@ -1,6 +1,6 @@
 # GUI tool to flash Skybian for Skyminer on SD card images of any kind
 
-[![Build Status](https://travis-ci.com/skycoin/skyflash.svg?branch=master)](https://travis-ci.com/skycoin/skyflash)
+[![Build Status](https://travis-ci.com/SkycoinProject/skyflash.svg?branch=master)](https://travis-ci.com/SkycoinProject/skyflash)
 
 With this tool you will download, configure, create and flash the default [skybian](https://github.com/simelo/skybian) image to your custom environment.
 
@@ -12,7 +12,7 @@ The preferred method to configure & flash the official [skybian](https://github.
 
 ### Installing or upgrading
 
-The Skyflash tool is a standalone app _(often called a "portable app")_, so you just download the app and run it. To get the latest version just go to the [Releases](https://github.com/skycoin/skyflash/releases) link on this page and grab the file matching to your OS.
+The Skyflash tool is a standalone app _(often called a "portable app")_, so you just download the app and run it. To get the latest version just go to the [Releases](https://github.com/SkycoinProject/skyflash/releases) link on this page and grab the file matching to your OS.
 
 If you has an old version already, just erase the old one and use the new one.
 
@@ -69,7 +69,7 @@ With this settings in place, you can push to both local and official repository 
 To do a release you must follow these steps:
 
 0. Clone the repository develop branch in a personal or organizational repository (default develop one is at [Simelo organization in Github](https://github.com/simelo/skyflash)) follow the above section to configure your repository to produce releases on your repository
-0. Check if there are commits on the skycoin/master that must be applied to your develop branch (hot fixes or security ones), apply them and fix any merge issues
+0. Check if there are commits on the SkycoinProject/master that must be applied to your develop branch (hot fixes or security ones), apply them and fix any merge issues
 0. Create a release-v#.#.# branch in your repository from the develop branch, this will be the release playground, the numbers are the next logical release, see [CHANGELOG](CHANGELOG.md) file to see what's next
 0. Check any pending issues in order to close them if possible on this release cycle (use local branches and at the end mix them with develop)
 0. From this point forward work on the release-v#.#.# branch
@@ -88,6 +88,6 @@ To do a release you must follow these steps:
 0. Merge master into develop
 0. Check if there is needed to raise issues & PR on the following repositories:
 
-    * [Skybian](https://github.com/skycoin/skybian): if needed.
-    * [Skycoin](https://github.com/skycoin/skycoin): mentions in it's README.md and elsewhere if applicable
-    * [Skywire](https://github.com/skycoin/skywire): to note the new release and the use of skyflash
+    * [Skybian](https://github.com/SkycoinProject/skybian): if needed.
+    * [Skycoin](https://github.com/SkycoinProject/skycoin): mentions in it's README.md and elsewhere if applicable
+    * [Skywire](https://github.com/SkycoinProject/skywire): to note the new release and the use of skyflash

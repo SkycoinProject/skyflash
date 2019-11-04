@@ -31,9 +31,9 @@ imageConfigAddress = 12582912
 imageConfigDataSize = 256
 
 # skybian URL
-defaultSkybianUrl = "https://github.com/skycoin/skybian/releases/download/Skybian-v0.0.4/Skybian-v0.0.4.tar.xz"
-readmeUrl = "https://github.com/skycoin/skyflash/blob/master/README.md#installing-or-upgrading"
-manualUrl = "https://github.com/skycoin/skyflash/blob/master/USER_MANUAL.md"
+defaultSkybianUrl = "https://github.com/SkycoinProject/skybian/releases/download/Skybian-v0.0.4/Skybian-v0.0.4.tar.xz"
+readmeUrl = "https://github.com/SkycoinProject/skyflash/blob/master/README.md#installing-or-upgrading"
+manualUrl = "https://github.com/SkycoinProject/skyflash/blob/master/USER_MANUAL.md"
 
 class Skyflash(QObject):
     '''Main/Base object for all procedures and properties, this is the core

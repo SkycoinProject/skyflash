@@ -19,8 +19,8 @@ ApplicationWindow {
             onLinkActivated: Qt.openUrlExternally(link)
             padding: 10
             text: " <p align='center'><h1>Skycoin's Skyflash</h1></p>\
-                    <p align='center'><a href='https://github.com/skycoin/skyflash'>Skyflash</a> is the official tool to configure,<br/>\
-                    build and flash the Skyminer images based on <a href='https://github.com/skycoin/skybian'>Skybian</a>.\
+                    <p align='center'><a href='https://github.com/SkycoinProject/skyflash'>Skyflash</a> is the official tool to configure,<br/>\
+                    build and flash the Skyminer images based on <a href='https://github.com/SkycoinProject/skybian'>Skybian</a>.\
                     </p>\
                     <p align='center'>Current version: <b>v0.0.6</b></p>"
 

@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/SkycoinProject/skyflash.svg?branch=master)](https://travis-ci.com/SkycoinProject/skyflash)
 
+**NOTE: This tool is not actively maintained anymore. If you are looking to flash your Skyminer, you can find a tool here: https://github.com/SkycoinProject/skybian**
+
 With this tool you will download, configure, create and flash the default [skybian](https://github.com/simelo/skybian) image to your custom environment.
 
 The resulting images will only run on the official skyminer hardware, the one based on Orange Pi Prime SBC.
